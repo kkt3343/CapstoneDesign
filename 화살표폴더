@@ -1,0 +1,9 @@
+깃허브 폴더 화살표 생길 때 대처법
+
+git init
+
+git add .
+
+git commit -m "message"
+
+git push origin
